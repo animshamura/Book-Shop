@@ -1,0 +1,50 @@
+The History of Tom Jones, a Foundling 
+1234
+Henry Fielding
+Andrew Millar
+450
+Pride and Prejudice
+1235
+Jane Austen
+Whitehall
+470
+The Red and the Black
+1236
+Henri Beyle
+A.Levasseur
+520
+Père Goriot
+1237
+Honoré de Balzac
+Revue de Paris
+340
+David Copperfield
+1238
+Charles Dickens
+Bradbury & Evans
+490
+Madame Bovary
+1239
+Gustave Flaubert
+Revue de Paris 
+600
+The Whale
+1240
+Herman Melville
+Richard Bentley
+700
+Wuthering Heights
+1241
+Emily Brontë
+Thomas Cautley Newby
+890
+The Brothers Karamazov
+1242
+Fyodor Dostoevsky
+The Russian Messenger
+570
+War and Peace
+1243
+Leo Tolstoy
+The Russian Messenger
+543
